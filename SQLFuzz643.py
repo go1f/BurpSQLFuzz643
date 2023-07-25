@@ -52,7 +52,6 @@ class BurpExtender(IBurpExtender, IScannerCheck):
 
         return matches
 
-
     #
     # implement IScannerCheck
     #
